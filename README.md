@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jasonkarmokar
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL & Python
+- 💞️ I’m looking to collaborate with like minded people to work on projects
